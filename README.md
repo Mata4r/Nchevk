@@ -1,7 +1,7 @@
 # nchevk
 nchevk is a script for Network Engineers to test a LAN Network.
 
-## features 
+## Features 
 
 - Reachable Clients with MAC Address if available in the Table
 
