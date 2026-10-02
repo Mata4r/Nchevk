@@ -1,4 +1,4 @@
-# nchevk
+# Nchevk
 nchevk is a script for Network Engineers to test a LAN Network.
 
 ## Features 
