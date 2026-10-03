@@ -14,7 +14,7 @@ nchevk is a script for Network Engineers to test a LAN Network.
 ## How to run ?
 
 ```bash
-powershell -ExecutionPolicy Bypass -File .\nchevk.ps1
+powershell -ExecutionPolicy Bypass -File .\nchevkscript.ps1
 ```
 ### Note
 
