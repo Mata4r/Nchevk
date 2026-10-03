@@ -1,5 +1,5 @@
 # Nchevk
-nchevk is a script that was designed for Network Engineers for testing networks.
+Nchevk is a script that was designed for Network Engineers to inspect and verify the integrity of a network.
 
 ## Features 
 
